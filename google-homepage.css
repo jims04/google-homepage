@@ -1,0 +1,23 @@
+#logo{
+	padding-top: 120px;
+}
+
+.button {
+	padding-top:20px;
+}
+.form {
+	padding-top:30px;
+	width:490px;
+	height: 2px;
+}
+.searchlucky{
+	font-size: 15px;
+}
+
+.topbar {
+	text-align: right;
+	color:#222;
+}
+.space{
+	padding-left: 15px;
+}
